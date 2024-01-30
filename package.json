@@ -1,6 +1,6 @@
 {
-  "name": "node-cli-start",
-  "version": "0.0.0",
+	"name": "node-cli-start",
+	"version": "0.0.0",
 	"description": "My awesome command-line tool",
 	"license": "MIT",
 	"repository": "YOUR-GITHUB-USERNAME/node-cli-start",
